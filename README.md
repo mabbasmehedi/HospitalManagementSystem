@@ -10,7 +10,7 @@
 ## How to run:
 > Export database:
  ```sh
-Export "hospital_management.sql" file to phpMyAdmin
+Export "hospital_management.sql" database to phpMyAdmin
 ```
 > Copy file:
  ```sh
@@ -27,8 +27,14 @@ Or brouse: http://localhost/[your folder name]/[page you want to launch].php
 ```
 
 ### Default password for login:
-<p>Username: admin
-<p>Password: admin
+**Username:** admin  
+**Password:** admin
+ 
+## Instructor:
+**Mst. Umme Ayman**  
+Lecturer  
+Department of Computer Science and Engineering  
+Daffodil International University
 
 ## Our Team:
 <ol>
