@@ -247,14 +247,14 @@
         <!-- Doctor 1 -->
         <div class="flex flex-col items-center bg-white shadow-md rounded-lg p-4">
          <img src="./images/smiling-doctor-with-strethoscope-isolated-grey-removebg-preview.png" alt="" class=" rounded-full bg-blue-500 flex items-center justify-center">
-          <p class="mt-4 font-semibold text-gray-800">Kazi Musfiqur Rahman/p>
+          <p class="mt-4 font-semibold text-gray-800">Ahsan Habib</p>
           <p class="mt-2 text-gray-600 items-center">MBBS</p>
         </div>
         
         <!-- Doctor 2 -->
         <div class="flex flex-col items-center bg-white shadow-md rounded-lg p-4">
             <img src="./images/woman-working-as-doctor-removebg-preview.png" alt="" class=" rounded-full bg-red-500 flex items-center justify-center">
-          <p class="mt-4 font-semibold text-gray-800">Sanjida Faria</p>
+          <p class="mt-4 font-semibold text-gray-800">Nusrat Jahan</p>
           <p class="mt-2 text-gray-600 items-center">MBBS</p>
         </div>
         
@@ -262,7 +262,7 @@
         <div class="flex flex-col items-center bg-white shadow-md rounded-lg p-4">
             <img src="./images/healthcare-workers-medicine-covid-19-pandemic-self-quarantine-concept-cheerful-smiling-hispanic-male-nurse-doctor-er-wearing-scrubs-glasses-talking-patient-clinic-removebg-preview.png" alt="" class=" rounded-full bg-gray-500 flex items-center justify-center">
 
-          <p class="mt-4 font-semibold text-gray-800">Tasniya Afrin</p>
+          <p class="mt-4 font-semibold text-gray-800">Tahmid Hasan</p>
           <p class="mt-2 text-gray-600 items-center">MBBS</p>
         </div>
       </div>
@@ -349,9 +349,8 @@
     </div>
 
     <!-- Bottom Section -->
-    <div class="mt-8 border-t border-blue-800 pt-2 flex justify-between">
+    <div class="mt-8 border-t border-blue-800 pt-2 flex justify-center items-center">
         <p class="text-sm pl-10 pt">© Copyright by <a href="" class="font-bold">OOP2 Hospital</a>
-            <p class="text-sm text-right pr-10">© Design by <a href="https://www.instagram.com/musfiq611891/" class="font-bold">Musfiq611891</a>
     </div>
   </footer>
 
