@@ -10,7 +10,7 @@
 ## How to run:
 > Export database:
  ```sh
-Export "hospital_management.sql" file to phpMyAdmin
+Export "hospital_management.sql" database to phpMyAdmin
 ```
 > Copy file:
  ```sh
